@@ -1,0 +1,8 @@
+Package: minizip
+Version: 1.2.13
+Depends: vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f020dff93954edc6cf808579f117929ed023df74187d7476a704085aeb84a60b
+Description: Zip compression library
+Status: install ok installed

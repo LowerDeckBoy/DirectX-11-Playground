@@ -1,0 +1,11 @@
+Model Information:
+* title:	Globophobia
+* source:	https://sketchfab.com/3d-models/globophobia-16d49263ed294d7ea7251e737a6bc3c4
+* author:	felipegall (https://sketchfab.com/felipegall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Globophobia" (https://sketchfab.com/3d-models/globophobia-16d49263ed294d7ea7251e737a6bc3c4) by felipegall (https://sketchfab.com/felipegall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Psyduck - Pokémon
+* source:	https://sketchfab.com/3d-models/psyduck-pokemon-eab3abfdbe4648aeab13c9e90a5ed3a2
+* author:	Malin Helene Rosenkrantz Ottesen (https://sketchfab.com/MH_Rosenkrantz)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Psyduck - Pokémon" (https://sketchfab.com/3d-models/psyduck-pokemon-eab3abfdbe4648aeab13c9e90a5ed3a2) by Malin Helene Rosenkrantz Ottesen (https://sketchfab.com/MH_Rosenkrantz) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fallout Ranger
+* source:	https://sketchfab.com/3d-models/fallout-ranger-1ca1c947919246b28e67d961b0c9889b
+* author:	csheffield (https://sketchfab.com/csheffield)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fallout Ranger" (https://sketchfab.com/3d-models/fallout-ranger-1ca1c947919246b28e67d961b0c9889b) by csheffield (https://sketchfab.com/csheffield) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

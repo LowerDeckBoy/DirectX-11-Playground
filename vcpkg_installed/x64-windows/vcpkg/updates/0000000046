@@ -1,0 +1,8 @@
+Package: tinygltf
+Version: 2.8.4
+Depends: nlohmann-json, stb
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 30dbbf8ff1da36420ab8b19a164b214a904c911695128fc420dbf8e771f12688
+Description: A header only C++11 glTF 2.0 library.
+Status: install ok half-installed

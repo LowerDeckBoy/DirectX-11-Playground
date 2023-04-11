@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mycena Chlorophos
+* source:	https://sketchfab.com/3d-models/mycena-chlorophos-332fbe9772fc4510b1a9dbba8962bbaf
+* author:	Coffeek (https://sketchfab.com/coffe0wolf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mycena Chlorophos" (https://sketchfab.com/3d-models/mycena-chlorophos-332fbe9772fc4510b1a9dbba8962bbaf) by Coffeek (https://sketchfab.com/coffe0wolf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

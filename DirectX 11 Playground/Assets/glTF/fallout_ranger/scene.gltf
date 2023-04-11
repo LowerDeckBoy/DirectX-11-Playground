@@ -1,0 +1,1273 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 51640,
+      "max": [
+        11.15861701965332,
+        24.025020599365234,
+        23.328041076660156
+      ],
+      "min": [
+        -13.878043174743652,
+        -4.061407089233398,
+        -8.141779899597168
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 619680,
+      "componentType": 5126,
+      "count": 51640,
+      "max": [
+        1.0,
+        0.9999916553497314,
+        0.9999987483024597
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.999998927116394
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 51640,
+      "max": [
+        0.9974806308746338,
+        0.9950084686279297
+      ],
+      "min": [
+        0.004991590976715088,
+        0.004989743232727051
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 214497,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1239360,
+      "componentType": 5126,
+      "count": 8385,
+      "max": [
+        14.31558895111084,
+        26.63223648071289,
+        3.8683056831359863
+      ],
+      "min": [
+        -16.65680694580078,
+        3.1174800395965576,
+        -22.52842140197754
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1339980,
+      "componentType": 5126,
+      "count": 8385,
+      "max": [
+        0.9994667768478394,
+        0.999949038028717,
+        0.9998595714569092
+      ],
+      "min": [
+        -0.9991227984428406,
+        -0.9992865324020386,
+        -0.9996041655540466
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 413120,
+      "componentType": 5126,
+      "count": 8385,
+      "max": [
+        0.9994872212409973,
+        0.2637653350830078
+      ],
+      "min": [
+        0.0005128383636474609,
+        0.0005128383636474609
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 857988,
+      "componentType": 5125,
+      "count": 49152,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1440600,
+      "componentType": 5126,
+      "count": 17350,
+      "max": [
+        18.472789764404297,
+        13.19258975982666,
+        153.90475463867188
+      ],
+      "min": [
+        -18.472789764404297,
+        -15.176226615905762,
+        90.9840316772461
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1648800,
+      "componentType": 5126,
+      "count": 17350,
+      "max": [
+        0.9998341202735901,
+        0.9999972581863403,
+        0.9999987483024597
+      ],
+      "min": [
+        -0.9999872446060181,
+        -0.9999992251396179,
+        -0.9999797344207764
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 17350,
+      "max": [
+        0.9999967217445374,
+        0.9999986290931702,
+        0.9999991059303284,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9998621344566345,
+        -0.9999623894691467,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 480200,
+      "componentType": 5126,
+      "count": 17350,
+      "max": [
+        0.9956316351890564,
+        0.9959791898727417
+      ],
+      "min": [
+        0.0024663780350238085,
+        0.0024657081812620163
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1054596,
+      "componentType": 5125,
+      "count": 88263,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1857000,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        15.089179992675781,
+        15.592508316040039,
+        149.7947998046875
+      ],
+      "min": [
+        -16.710107803344727,
+        -17.96473503112793,
+        108.35611724853516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1966056,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.9999822378158569,
+        0.9999831318855286,
+        0.9992616176605225
+      ],
+      "min": [
+        -0.9995597004890442,
+        -0.9999833106994629,
+        -0.9997674822807312
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 277600,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.9999951124191284,
+        0.9999666810035706,
+        0.9997174143791199,
+        1.0
+      ],
+      "min": [
+        -0.9997286796569824,
+        -0.9999787211418152,
+        -0.9997390508651733,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 619000,
+      "componentType": 5126,
+      "count": 9088,
+      "max": [
+        0.09031367301940918,
+        0.9994258284568787
+      ],
+      "min": [
+        0.0005742877256125212,
+        0.0005742874927818775
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1407648,
+      "componentType": 5125,
+      "count": 48708,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2075112,
+      "componentType": 5126,
+      "count": 47658,
+      "max": [
+        51.71158218383789,
+        158.49285888671875,
+        22.248706817626953
+      ],
+      "min": [
+        -51.63633346557617,
+        5.458023548126221,
+        -22.601266860961914
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2647008,
+      "componentType": 5126,
+      "count": 47658,
+      "max": [
+        0.999997079372406,
+        0.9998157024383545,
+        0.9999805688858032
+      ],
+      "min": [
+        -0.9999534487724304,
+        -0.9998897314071655,
+        -0.9999873638153076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 423008,
+      "componentType": 5126,
+      "count": 47658,
+      "max": [
+        0.9999759793281555,
+        0.9999718070030212,
+        0.9999924898147583,
+        1.0
+      ],
+      "min": [
+        -0.9999874234199524,
+        -0.9999963641166687,
+        -0.9999954700469971,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 691704,
+      "componentType": 5126,
+      "count": 47658,
+      "max": [
+        0.9973676800727844,
+        0.9986062049865723
+      ],
+      "min": [
+        0.0024959444999694824,
+        0.002496853470802307
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1602480,
+      "componentType": 5125,
+      "count": 252696,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3218904,
+      "componentType": 5126,
+      "count": 12108,
+      "max": [
+        52.8803596496582,
+        103.31144714355469,
+        26.999483108520508
+      ],
+      "min": [
+        -52.880348205566406,
+        84.61429595947266,
+        10.838706970214844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3364200,
+      "componentType": 5126,
+      "count": 12108,
+      "max": [
+        0.9999356865882874,
+        0.9990390539169312,
+        0.999237060546875
+      ],
+      "min": [
+        -0.9999246001243591,
+        -0.999733030796051,
+        -0.9975512027740479
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1185536,
+      "componentType": 5126,
+      "count": 12108,
+      "max": [
+        0.9997135400772095,
+        0.9993866682052612,
+        0.9998368620872498,
+        1.0
+      ],
+      "min": [
+        -0.9994192719459534,
+        -0.9997597932815552,
+        -0.9998686909675598,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1072968,
+      "componentType": 5126,
+      "count": 12108,
+      "max": [
+        0.9971015453338623,
+        0.9957960844039917
+      ],
+      "min": [
+        0.003481760621070862,
+        0.0019723176956176758
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2613264,
+      "componentType": 5125,
+      "count": 66984,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3509496,
+      "componentType": 5126,
+      "count": 23933,
+      "max": [
+        19.824556350708008,
+        99.62783813476563,
+        14.698659896850586
+      ],
+      "min": [
+        -22.4412841796875,
+        6.452246189117432,
+        -11.742366790771484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3796692,
+      "componentType": 5126,
+      "count": 23933,
+      "max": [
+        0.9999852776527405,
+        1.0,
+        0.9999628067016602
+      ],
+      "min": [
+        -0.9999940991401672,
+        -0.9999938011169434,
+        -0.9999844431877136
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1379264,
+      "componentType": 5126,
+      "count": 23933,
+      "max": [
+        0.9999886155128479,
+        0.9999614953994751,
+        0.9999999403953552,
+        1.0
+      ],
+      "min": [
+        -0.9999920725822449,
+        -0.9999905824661255,
+        -0.9999874234199524,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1169832,
+      "componentType": 5126,
+      "count": 23933,
+      "max": [
+        0.9948447346687317,
+        0.994907021522522
+      ],
+      "min": [
+        0.004994937218725681,
+        0.0049980878829956055
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2881200,
+      "componentType": 5125,
+      "count": 105930,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4083888,
+      "componentType": 5126,
+      "count": 4078,
+      "max": [
+        21.27495574951172,
+        17.348173141479492,
+        21.73404312133789
+      ],
+      "min": [
+        -20.424068450927734,
+        -1.5896978378295898,
+        -7.7343950271606445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4132824,
+      "componentType": 5126,
+      "count": 4078,
+      "max": [
+        0.9998697638511658,
+        0.9996143579483032,
+        0.9999300837516785
+      ],
+      "min": [
+        -0.9998695850372314,
+        -0.9999989867210388,
+        -0.9999337196350098
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1762192,
+      "componentType": 5126,
+      "count": 4078,
+      "max": [
+        0.9999960064888,
+        0.9999237060546875,
+        0.9923952221870422,
+        1.0
+      ],
+      "min": [
+        -0.9999960660934448,
+        -0.9998777508735657,
+        -0.9996281266212463,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1361296,
+      "componentType": 5126,
+      "count": 4078,
+      "max": [
+        0.9953626990318298,
+        0.9946597814559937
+      ],
+      "min": [
+        0.005278418306261301,
+        0.005272086709737778
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3304920,
+      "componentType": 5125,
+      "count": 21540,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "csheffield (https://sketchfab.com/csheffield)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fallout-ranger-1ca1c947919246b28e67d961b0c9889b",
+      "title": "Fallout Ranger"
+    },
+    "generator": "Sketchfab-13.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3391080,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1393920,
+      "byteOffset": 3391080,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4181760,
+      "byteOffset": 4785000,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1827440,
+      "byteOffset": 8966760,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10794200,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_texture_transform"
+  ],
+  "images": [
+    {
+      "uri": "textures/Ranger_Helmet_baseColor.png"
+    },
+    {
+      "uri": "textures/Ranger_Helmet_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Ranger_Helmet_emissive.png"
+    },
+    {
+      "uri": "textures/Ranger_Bandana_baseColor.png"
+    },
+    {
+      "uri": "textures/Ranger_Bandana_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Ranger_ChestArmor_baseColor.png"
+    },
+    {
+      "uri": "textures/Ranger_ChestArmor_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Ranger_ChestArmor_normal.png"
+    },
+    {
+      "uri": "textures/Rope_baseColor.png"
+    },
+    {
+      "uri": "textures/Rope_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Rope_normal.png"
+    },
+    {
+      "uri": "textures/Ranger_Overcoat_baseColor.png"
+    },
+    {
+      "uri": "textures/Ranger_Overcoat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Ranger_Overcoat_normal.png"
+    },
+    {
+      "uri": "textures/Material.008_baseColor.png"
+    },
+    {
+      "uri": "textures/Material.008_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material.008_normal.png"
+    },
+    {
+      "uri": "textures/Ranger_Jeans_baseColor.png"
+    },
+    {
+      "uri": "textures/Ranger_Jeans_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Ranger_Jeans_normal.png"
+    },
+    {
+      "uri": "textures/Worn_Boots_baseColor.png"
+    },
+    {
+      "uri": "textures/Worn_Boots_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Worn_Boots_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Ranger_Helmet",
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Ranger_Bandana",
+      "occlusionTexture": {
+        "index": 4,
+        "strength": 0.729951136
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "name": "Ranger_ChestArmor",
+      "normalTexture": {
+        "index": 7
+      },
+      "occlusionTexture": {
+        "index": 6
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicRoughnessTexture": {
+          "index": 6
+        }
+      }
+    },
+    {
+      "name": "Rope",
+      "normalTexture": {
+        "extensions": {
+          "KHR_texture_transform": {
+            "rotation": 1.5707963268,
+            "scale": [
+              100,
+              100
+            ]
+          }
+        },
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "extensions": {
+            "KHR_texture_transform": {
+              "rotation": 1.5707963268,
+              "scale": [
+                100,
+                100
+              ]
+            }
+          },
+          "index": 8
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 9
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Ranger_Overcoat",
+      "normalTexture": {
+        "index": 13
+      },
+      "occlusionTexture": {
+        "index": 12
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 11
+        },
+        "metallicRoughnessTexture": {
+          "index": 12
+        }
+      }
+    },
+    {
+      "name": "Material.008",
+      "normalTexture": {
+        "index": 16
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 14
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 15
+        }
+      }
+    },
+    {
+      "name": "Ranger_Jeans",
+      "normalTexture": {
+        "index": 19
+      },
+      "occlusionTexture": {
+        "index": 18
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 17
+        },
+        "metallicRoughnessTexture": {
+          "index": 18
+        }
+      }
+    },
+    {
+      "name": "Worn_Boots",
+      "normalTexture": {
+        "index": 22
+      },
+      "occlusionTexture": {
+        "index": 21
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 20
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Helmet_Ranger_Helmet_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Helmet_Ranger_Bandana_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ChestArmor_Ranger_ChestArmor_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ChestArmor_Rope_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TANGENT": 15,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Duster_Ranger_Overcoat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TANGENT": 20,
+            "TEXCOORD_0": 21
+          },
+          "indices": 22,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Duster_Material.008_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 24,
+            "POSITION": 23,
+            "TANGENT": 25,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Jeans_Ranger_Jeans_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28,
+            "TANGENT": 30,
+            "TEXCOORD_0": 31
+          },
+          "indices": 32,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Jeans_Worn Boots_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 34,
+            "POSITION": 33,
+            "TANGENT": 35,
+            "TEXCOORD_0": 36
+          },
+          "indices": 37,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.011218498460948467,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.491007058613374e-18,
+        -0.011218498460948467,
+        0.0,
+        0.0,
+        0.011218498460948467,
+        2.491007058613374e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "fbf52741c4284f029241bf4510615da0.fbx"
+    },
+    {
+      "children": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        8.903923988342285,
+        15234.2392578125,
+        1269.34228515625,
+        1.0
+      ],
+      "name": "Helmet"
+    },
+    {
+      "mesh": 0,
+      "name": "Helmet_Ranger_Helmet_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Helmet_Ranger_Bandana_0"
+    },
+    {
+      "children": [
+        7,
+        8
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        2.338565249797062e-28,
+        2.6469779601696886e-19,
+        1.0
+      ],
+      "name": "ChestArmor"
+    },
+    {
+      "mesh": 2,
+      "name": "ChestArmor_Ranger_ChestArmor_0"
+    },
+    {
+      "mesh": 3,
+      "name": "ChestArmor_Rope_0"
+    },
+    {
+      "children": [
+        10,
+        11
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.99999999999866,
+        1.6292067073209114e-05,
+        0.0,
+        0.0,
+        -1.6292067073209114e-05,
+        99.99999999999866,
+        0.0,
+        0.0,
+        2.338565249797062e-28,
+        2.6469779601696886e-19,
+        1.0
+      ],
+      "name": "Duster"
+    },
+    {
+      "mesh": 4,
+      "name": "Duster_Ranger_Overcoat_0"
+    },
+    {
+      "mesh": 5,
+      "name": "Duster_Material.008_0"
+    },
+    {
+      "children": [
+        13,
+        14
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.99999999999866,
+        1.6292067073209114e-05,
+        0.0,
+        0.0,
+        -1.6292067073209114e-05,
+        99.99999999999866,
+        0.0,
+        0.0,
+        2.338565249797062e-28,
+        2.6469779601696886e-19,
+        1.0
+      ],
+      "name": "Jeans"
+    },
+    {
+      "mesh": 6,
+      "name": "Jeans_Ranger_Jeans_0"
+    },
+    {
+      "mesh": 7,
+      "name": "Jeans_Worn Boots_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    },
+    {
+      "sampler": 0,
+      "source": 18
+    },
+    {
+      "sampler": 0,
+      "source": 19
+    },
+    {
+      "sampler": 0,
+      "source": 20
+    },
+    {
+      "sampler": 0,
+      "source": 21
+    },
+    {
+      "sampler": 0,
+      "source": 22
+    }
+  ]
+}

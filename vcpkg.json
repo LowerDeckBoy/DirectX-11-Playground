@@ -1,0 +1,18 @@
+{
+    "name": "dx11-playground",
+    "version-string": "0.1.0",
+    "dependencies": [
+        "cgltf",
+        "tinygltf",
+        "assimp",
+        "spdlog",
+        {
+            "name": "directxtex",
+            "features": [ "dx11" ]
+        },
+        {
+            "name": "imgui",
+            "features": [ "dx11-binding", "win32-binding" ]
+        }
+    ]
+}

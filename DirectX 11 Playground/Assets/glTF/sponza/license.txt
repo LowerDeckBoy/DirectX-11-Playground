@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sponza
+* source:	https://sketchfab.com/3d-models/sponza-5a4aec97029d484f88a8b55e2ed2a35b
+* author:	Kevin.Yudi.Utama (https://sketchfab.com/Kevin.Yudi.Utama)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sponza" (https://sketchfab.com/3d-models/sponza-5a4aec97029d484f88a8b55e2ed2a35b) by Kevin.Yudi.Utama (https://sketchfab.com/Kevin.Yudi.Utama) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Timothy model ref
+* source:	https://sketchfab.com/3d-models/timothy-model-ref-684bb525c06743899b25bb7398f801ad
+* author:	crookedheron (https://sketchfab.com/crookedheron)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Timothy model ref" (https://sketchfab.com/3d-models/timothy-model-ref-684bb525c06743899b25bb7398f801ad) by crookedheron (https://sketchfab.com/crookedheron) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

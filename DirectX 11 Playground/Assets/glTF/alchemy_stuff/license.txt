@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alchemy Stuff
+* source:	https://sketchfab.com/3d-models/alchemy-stuff-6863824addaa4115aabf4455e9c6573f
+* author:	glenatron (https://sketchfab.com/glenatron)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alchemy Stuff" (https://sketchfab.com/3d-models/alchemy-stuff-6863824addaa4115aabf4455e9c6573f) by glenatron (https://sketchfab.com/glenatron) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
